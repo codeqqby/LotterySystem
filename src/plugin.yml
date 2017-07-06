@@ -1,0 +1,6 @@
+main: net.loadphase.Main.Main
+version: 1.8
+name: Lotterie
+author: loadPhase
+
+commands:
